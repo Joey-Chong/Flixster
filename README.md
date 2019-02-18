@@ -39,7 +39,7 @@ Understanding which functions do what is somewhat confusing which led to more ti
 
 ### App Walkthough GIF
 
-<img src="https://i.imgur.com/CywtSWH.gif" width=250><br>
+<img src="https://i.imgur.com/9tJnQzN.gif" width=250><br>
 
 ### Notes
 Took a lot of time to really follow up with the video especially when I don't know all the function, however, did understand the basic concept of how iOS development works in coding.
